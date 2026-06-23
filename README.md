@@ -1,3 +1,6 @@
+<img width="1277" height="722" alt="dashboard1" src="https://github.com/user-attachments/assets/19eaebb8-f783-4a3c-9525-92038e35f883" />
+<img width="2542" height="1434" alt="dashboard image 2" src="https://github.com/user-attachments/assets/a5928a40-6546-4630-aba3-74bfb30e83f9" />
+<img width="2552" height="1440" alt="dashboard image 3" src="https://github.com/user-attachments/assets/135ee987-3b8b-4c42-8a94-b777312ca939" />
 
 # 🎧 Spotify Listening Analytics Dashboard
 
