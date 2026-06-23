@@ -1,12 +1,11 @@
-# Spotify-listening-dashboard
-Spotify-inspired Power BI dashboard analyzing listening behavior, artist performance, albums, songs, and platform usage with interactive KPIs and business insights.
+
 # 🎧 Spotify Listening Analytics Dashboard
 
 A modern Spotify-inspired Power BI dashboard that transforms raw streaming history into actionable insights. This project analyzes listening behavior, artist performance, platform usage, albums, and songs using Excel for data cleaning and Power BI for visualization.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This dashboard provides an interactive analysis of Spotify streaming history to identify listening patterns, favorite artists, platform preferences, and music engagement over time.
 
@@ -54,7 +53,7 @@ The dataset contains Spotify streaming history with the following fields:
 
 ## 📊 Dashboard Pages
 
-### 🏠 Home / Overview
+###  Home / Overview
 
 Executive summary of listening activity.
 
@@ -147,9 +146,9 @@ Detailed song-level insights including:
 Aspiring Data Analyst
 
 LinkedIn:
-(Add Your LinkedIn)
+(https://www.linkedin.com/in/santosh-datanalyst/)
 
 GitHub:
-(Add Your GitHub)
+(https://github.com/Santosh8984)
 
 ---
